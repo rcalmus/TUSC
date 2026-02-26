@@ -1,0 +1,9 @@
+```yaml
+cff-version: 1.2.0
+title: TUSC – Transcranial Ultrasound Control
+doi: 10.5281/zenodo.18793433
+authors:
+  - family-names: Calmus
+    given-names: Ryan
+year: 2026
+license: GPL-3.0
