@@ -2,10 +2,14 @@
 [<img src="https://github.com/rcalmus/TUSC/blob/main/resources/TUSC_screenshot.png" style="width: 50%; height: auto;">](https://github.com/rcalmus/TUSC/blob/main/resources/TUSC_screenshot.png)
 # TUSC - Transcranial Ultrasound Control
 ## What is it?
-TUSC is an **unofficial, research-focused collection of MATLAB scripts and a graphical user interface** (GUI) for controlling the Sonic Concepts Transducer Power Output (TPO) device.  
+TUSC is an **unofficial, research-focused collection of MATLAB scripts and a graphical user interface** (GUI) for controlling the Sonic Concepts Transducer Power Output (TPO) device.
 
 Support for additional devices may be added in the future.
-## How do I use it?
+
+## Authorship
+TUSC was conceived, designed, and implemented by **Dr. Ryan Calmus** (University of Iowa) beginning in 2024 as a standalone software framework for transcranial ultrasound device control.
+
+## Installation and usage
 TUSC requires **MATLAB R2022a or later**.
 To install:
 1. Download or clone the repository.
