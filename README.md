@@ -1,7 +1,7 @@
 [<img src="https://github.com/rcalmus/TUSC/blob/main/resources/elephanticon_rcalmus324x324.png">](https://github.com/rcalmus/TUSC/blob/main/resources/elephanticon_rcalmus324x324.png)
 [<img src="https://github.com/rcalmus/TUSC/blob/main/resources/TUSC_screenshot.png" style="width: 50%; height: auto;">](https://github.com/rcalmus/TUSC/blob/main/resources/TUSC_screenshot.png)
 # TUSC - Transcranial Ultrasound Control
-[![DOI](https://zenodo.org/badge/1167916016.svg)](https://doi.org/10.5281/zenodo.18793432)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18793433.svg)](https://doi.org/10.5281/zenodo.18793433)
 
 ## What is it?
 TUSC is an **unofficial, research-focused collection of MATLAB scripts and a graphical user interface** (GUI) for controlling the Sonic Concepts Transducer Power Output (TPO) device.
