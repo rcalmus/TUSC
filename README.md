@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18793433.svg)](https://doi.org/10.5281/zenodo.18793433)
 
 ## What is it?
-TUSC is an **unofficial, research-focused collection of MATLAB scripts and a graphical user interface** (GUI) for controlling the Sonic Concepts Transducer Power Output (TPO) device.
+TUSC is an **unofficial, research-focused collection of MATLAB scripts and a graphical user interface** (GUI) for controlling the Sonic Concepts Transducer Power Output (TPO) device. The TPO is a precision-engineered stimulation system capable of noninvasively delivering safe levels of neuromodulatory ultrasonic energy through the intact human skull to targeted brain regions (known as _low-intensity transcranial focused ultrasound_).
 
 Support for additional devices may be added in the future.
 
